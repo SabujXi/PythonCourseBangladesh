@@ -1,2 +1,3 @@
-# PythonCourseBangladesh
-Pragmatic, Project Based Python Programming Course in Bangladesh - Learn Python With Sabuj
+# Pragmatic, Project Based Python Programming Course in Bangladesh - PythonCourseBangladesh
+
+
